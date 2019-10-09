@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.rizmax.slsnotesapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.gyunit.gtdserverlesssystem" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Serverless Notes</name>
     <description>An awesome notes app for learning.</description>
-    <author email="hello@rizmax.com" href="https://academy.rizmax.com/">Rizmax Academy</author>
+    <author>Gordon Yu</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
